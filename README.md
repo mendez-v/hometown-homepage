@@ -6,10 +6,20 @@ This is my solution for **Solo Project: Hometown homepage** of [**Frontend Caree
 
 ### Table Contents
 
++ [The challenge](#the-challenge)
 + [Screenshots](#screenshots)
 + [Links](#links)
 + [Useful resources](#useful-resources)
 + [Author](#author)
+
+## The challenge
+🎯 Design a home page for a place we appreciate.
+
+🎯 Show your wonders.
+
+🎯 Add animations such as: rotation, scales.
+
+🎯 View the optimal layout for the page depending on their device's screen size.
 
 ## Screenshots
 ### 📱 Mobile
