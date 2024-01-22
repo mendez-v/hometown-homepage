@@ -36,6 +36,8 @@ This is my solution for **Solo Project: Hometown homepage** of [**Frontend Caree
 
 [Scrim](https://scrimba.com/scrim/c6rkzbt3) 👀
 
+[Frontend Career Path](https://github.com/mendez-v/frontend-career-path) 👀
+
 ## Useful resources
 
 🌈 Icons - [IconScout](https://iconscout.com/)
